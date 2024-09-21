@@ -1,4 +1,4 @@
-# Hi, I’m @phoenix1803 or Prakhar 👋
+# Hi, I’m Prakhar 👋
 
 - 💻 I’m interested in building software applications/programmes.
 - 📚 I'm currently learning Node.js, MongoDB, C, C++, Python.
