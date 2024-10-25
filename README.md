@@ -1,8 +1,9 @@
 # Hi, I’m Prakhar 👋
 
 - 💻 I’m interested in building software applications/programmes.
-- 📚 I'm currently learning Node.js, MongoDB, C, C++, Python.
-- 🤝 I'm looking to collaborate on projects for hackathons.
+- 💻 Well versed with HTML, CSS , Python.
+- 📚 Currently learning Node.js, MongoDB, C, Javascript. 
+- 🤝 Looking to collaborate on projects for hackathons as well as learning a new framework/library
 - 📫 How to reach me:
     - Instagram: [@prakhar_1803_](https://instagram.com/prakhar_1803_)
     - Email: [prakharchandra1803@gmail.com](mailto:prakharchandra1803@gmail.com)
