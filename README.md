@@ -5,7 +5,7 @@ I am a first year undergrad student at [MSIT](https://msit.in/) majoring in Elec
 
 ⭐ 
 
-🚀 GeeK Room : AI-ML member
+🚀 Geek Room : AI-ML member
 
 🚀 Google Devlopers Group on Campus : Web Dev member
 
