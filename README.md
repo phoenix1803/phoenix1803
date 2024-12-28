@@ -3,11 +3,13 @@
 
 I am a first year undergrad student at [MSIT](https://msit.in/) majoring in Electronics and Communications Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes C, Python, Javascript, HTML/CSS/Bootstrap,and more. 
 
-⭐ 
-
 🚀 Geek Room : AI-ML member
 
 🚀 Google Devlopers Group on Campus : Web Dev member
+
+⭐ Bertelsmann Scholar
+
+⭐ Web3Conf India finalist
 
 🔭 GSSoC'24 Extd: #147 (highest) 
 
