@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Prakhar Chandra! ⚡
 
 
-I am a first year undergrad student at [MSIT](https://msit.in/) majoring in Electronics and Communications Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes C, Python, Javascript, HTML/CSS/Bootstrap,and more. 
+I am a first year undergrad student at [MSIT](https://msit.in/) majoring in Electronics and Communications Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes C, Python, Javascript, HTML/CSS/Bootstrap,and i am learning React. 
 
 🚀 Geek Room : AI-ML member
 
