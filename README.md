@@ -5,7 +5,7 @@ I am a first year undergrad student at [MSIT](https://msit.in/) majoring in Elec
 
 🚀 Deputy Head- AI-ML Dept @ Geek Room
 
-🚀 Member- Web-Dev Dept @ Google Devlopers Group on Campus 
+🚀 Mentor- Web-Dev Dept @ Google Devlopers Group on Campus 
 
 ⭐ Bertelsmann Scholar
 
