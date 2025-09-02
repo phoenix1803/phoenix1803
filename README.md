@@ -1,13 +1,19 @@
 ### Hi there 👋, I am Prakhar Chandra! ⚡
 
 
-I am a Second year undergrad student at [MSIT](https://msit.in/) majoring in Computer Science and Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes Python, MERN stack, NEXTjs , ML , I currently am exploring GEN AI. 
+I am a Second year undergrad student at [MSIT](https://msit.in/) majoring in Computer Science and Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes Python, MERN stack, NEXTjs , I currently am exploring Deep Learning. 
+
+🚀 Fellowship @ United Nations Academic Impact
 
 🚀 Deputy Head- AI-ML Dept @ Geek Room
 
-🚀 Mentor- Web-Dev Dept @ Google Devlopers Group on Campus 
+🚀 Deputy Head- Web-Dev Dept @ Google Devlopers Group on Campus 
 
 ⭐ Bertelsmann Scholar
+
+⭐ Google Solutions Challenge - Top 105
+
+⭐ Pragati AI for impact hackathon - Top 83
 
 ⭐ Web3Conf India finalist
 
