@@ -9,6 +9,8 @@ I am a Second year undergrad student at [MSIT](https://msit.in/) majoring in Com
 
 🚀 Deputy Head- Web-Dev Dept @ Google Devlopers Group on Campus 
 
+⭐ SIH'25 Finalist
+
 ⭐ Bertelsmann Scholar
 
 ⭐ Google Solutions Challenge - Top 105
