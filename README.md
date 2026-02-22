@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Prakhar Chandra! ⚡
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
    
 I am a Second year undergrad student at [MSIT](https://msit.in/) majoring in Computer Science and Engineering. I am an aspiring Full Stack developer and an AI-ML Enthusiast. My tech-stack includes Python, MERN stack, NEXTjs , I currently am exploring Deep Learning. 
 
