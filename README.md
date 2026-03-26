@@ -29,7 +29,7 @@ I am a Second year undergrad student at [MSIT](https://msit.in/) majoring in Com
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/pinterest.svg" alt="Pinterest" height="32">](https://in.pinterest.com/prakharchandra1803/) | [<img src="https://github.com/Savio629/Savio629/blob/main/Assets/Linkedin.svg" alt="LinkedIn" height="32">](https://www.linkedin.com/in/prakhar-chandra-33a1a7326) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/leet-code.svg" alt="LeetCode" height="32">](https://leetcode.com/phoenix1803/) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Instagram.svg" alt="Instagram" height="32">](https://www.instagram.com/prakhar_1803_/)
+| [<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/pinterest.svg" alt="Pinterest" height="32">](https://in.pinterest.com/prakharchandra1803/) | [<img src="https://github.com/Savio629/Savio629/blob/main/Assets/Linkedin.svg" alt="LinkedIn" height="32">](https://www.linkedin.com/in/prakhar-chandra-33a1a7326) | [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/leet-code.svg" alt="LeetCode" height="32">]| [<img src="https://github.com/AP-XD/AP-XD/blob/main/Assets/Instagram.svg" alt="Instagram" height="32">](https://www.instagram.com/prakhar_1803_/)
 |:---:|:---:|:---:|:---:|
 
 
